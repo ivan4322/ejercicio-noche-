@@ -28,7 +28,7 @@ for ( i= 0; i<examenes; i++){
 }
 
 total = nota1y2+nota3;
-console.log(total)
+
 
 totalpromedio= promedio
-console.log(totalpromedio)
+alert("el promedio de la nota del estudiante es: " +totalpromedio)

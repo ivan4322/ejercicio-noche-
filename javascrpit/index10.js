@@ -6,5 +6,22 @@ let ancho = parseInt(prompt("digite el ancho del cuadrado"));
 
 let area = altura*ancho;
 
+alert("el area del cuadrado es " + area);
 
-alert ("el area del cuadrado es "  + area);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
